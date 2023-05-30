@@ -28,7 +28,7 @@ sh test_sp.sh
 keys = ["Your Key"]
 ```
 
-### Method Figure
+### Method Overview
 <img src="https://spring-security.oss-cn-beijing.aliyuncs.com/img/image-20230530212605407.png" alt="image-20230530212605407" style="zoom: 33%;" />
 
 <img src="https://spring-security.oss-cn-beijing.aliyuncs.com/img/image-20230530212621727.png" alt="image-20230530212621727" style="zoom:33%;" />
