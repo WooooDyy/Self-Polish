@@ -1,0 +1,19 @@
+Please rewrite new versions of the original mathematical question (including the context and the final question) to be more understandable and easy to answer. Don't omit any useful information, especially the numbers.
+
+Original Question: Each bird eats 12 beetles per day, each snake eats 3 birds per day, and each jaguar eats 5 snakes per day. If there are 6 jaguars in a forest, how many beetles are eaten each day?
+New Question: In a forest, there are 6 jaguars that each eat 5 snakes per day. Each snake eats 3 birds per day, and each bird eats 12 beetles per day. How many beetles are eaten each day by the jaguars?
+
+Original Question: Albert is wondering how much pizza he can eat in one day. He buys 2 large pizzas and 2 small pizzas. A large pizza has 16 slices and a small pizza has 8 slices. If he eats it all, how many pieces does he eat that day?
+New Question: Albert has purchased 2 large pizzas and 2 small pizzas and is wondering how many slices he can eat in one day. Each large pizza has 16 slices and each small pizza has 8 slices. If Albert eats all of the pizza, how many slices will he have eaten in one day?
+
+Original Question: In a truck, there are 26 pink hard hats, 15 green hard hats, and 24 yellow hard hats.  If Carl takes away 4 pink hard hats, and John takes away 6 pink hard hats and twice as many green hard hats as the number of pink hard hats that he removed, then calculate the total number of hard hats that remained in the truck.
+New Question: In a truck, there are 26 pink hard hats, 15 green hard hats, and 24 yellow hard hats. Carl takes away 4 pink hard hats and John takes away 6 pink hard hats and 12 green hard hats. How many hard hats remain in the truck?
+
+Original Question: Jasper will serve charcuterie at his dinner party. He buys 2 pounds of cheddar cheese for $10, a pound of cream cheese that cost half the price of the cheddar cheese, and a pack of cold cuts that cost twice the price of the cheddar cheese. How much does he spend on the ingredients?
+New Question: Jasper is hosting a dinner party and wants to serve charcuterie. He buys 2 pounds of cheddar cheese for $10, 1 pound of cream cheese for $5, and a pack of cold cuts for $20. How much does he spend on the ingredients for the charcuterie?
+
+Original: Tomas ate 1.5 pounds of chocolate fudge last week. Katya ate half a pound of peanut butter fudge, while Boris ate 2 pounds of fudge. How many ounces of fudge did the Tomas, Katya and Boris eat in total?
+New: Tomas ate 24 ounces of chocolate fudge last week. Katya ate 8 ounces of peanut butter fudge, while Boris ate 32 ounces of fudge. How many ounces of fudge did the Tomas, Katya and Boris eat in total?
+
+Original: Tomas ate 24 ounces of chocolate fudge last week. Katya ate 8 ounces of peanut butter fudge, while Boris ate 32 ounces of fudge. How many ounces of fudge did the Tomas, Katya and Boris eat in total?
+New: Tomas ate 24 ounces of fudge last week. Katya ate 8 ounces of fudge, while Boris ate 32 ounces of fudge. How many ounces of fudge did the Tomas, Katya and Boris eat in total?

@@ -1,0 +1,19 @@
+Please rewrite new versions of the original mathematical question (including the context and the final question) to be more understandable and easy to answer. Don't omit any useful information, especially the numbers.
+
+Original Question: Krishan and Nandan jointly started a business. Krishan invested six times as Nandan did and invested his money for double time as compared to Nandan. Nandan earned Rs. 6000. If the gain is proportional to the money invested and the time for which the money is invested then the total gain was? Answer Choices: (A) Rs.78000 (B) Rs.48000 (C) Rs.6000 (D) Rs.82000 (E) Rs.32000
+New Question: Krishan and Nandan teamed up to start a business together. Krishan invested 12 times more money than Nandan did. Nandan's earnings from the business were Rs. 6000. If the gain is directly proportional to both the amount of money invested and the time period, what was the total gain for both of them? Answer Choices: (A) Rs.78000 (B) Rs.48000 (C) Rs.6000 (D) Rs.82000 (E) Rs.32000
+
+Original Question: In a graduate physics course, 70 percent of the students are male and 30 percent of the students are married. If two-sevenths of the male students are married, what fraction of the male students is single? Answer Choices: (A) 2/7 (B) 1/3 (C) 1/2 (D) 2/3 (E) 5/7
+New Question: In a graduate physics course, 7/10 of the students are male and 3/10 of the students are married. If 2/7 of the male students are married, what fraction of the male students is single? Answer Choices: (A) 2/7 (B) 1/3 (C) 1/2 (D) 2/3 (E) 5/7
+
+Original Question: A train 500m long can cross an electric pole in 20 sec and then find the speed of the train? Answer Choices: (A) 95 Kmph (B) 90 Kmph (C) 92 Kmph (D) 95 Kmph (E) 98 Kmph
+New Question: A train, which is 500 meters long, takes 20 seconds to pass by an electric pole. What is the speed of the train? Represent the answer in units from answer options. Answer Choices: (A) 95 Kmph (B) 90 Kmph (C) 92 Kmph (D) 95 Kmph (E) 98 Kmph
+
+Original Question: A train covers a distance of 10km in 10 min. If it takes 6 sec to pass a telegraph post, then the length of the train is? Answer Choices: (A) 50m (B) 60m (C) 100m (D) 90m (E) 120m
+New Question: A train covers a distance of 10000m in 600 sec. If it takes 6 sec to pass a telegraph post, then the length of the train is? Answer Choices: (A) 50m (B) 60m (C) 100m (D) 90m (E) 120m
+
+Original Question: How many different subsets of the set {0, 1, 2, 3, 4} do not contain 0? Answer Choices: (A) 16 (B) 27 (C) 31 (D) 32 (E) 64
+New Question: How many different subsets of the set { 1, 2, 3, 4} ? Answer Choices: (A) 16 (B) 27 (C) 31 (D) 32 (E) 64
+
+Original Question: A class has 6 boys and x girls. Average score of boys and girls is 50 and 60 respectively. the average of the whole class is 55, what is the value of x? Answer Choices: (A) 5 (B) 6 (C) 10 (D) 12 (E) 15
+New Question: In a class, there are 6 boys and an unknown number of girls. The average score of the boys is 50, while the average score of the girls is 60. The overall average score of the boys and girls is 55. How many girls are there in the class? Answer Choices: (A) 5 (B) 6 (C) 10 (D) 12 (E) 15
