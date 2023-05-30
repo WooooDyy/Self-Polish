@@ -2,7 +2,9 @@
 
 Codes for the paper  [Self-Polsih: Enhance Reasoning in Large Language Models via Problem Refining.](https://arxiv.org/abs/2305.14497)
 
+![image-20230530212605407](https://spring-security.oss-cn-beijing.aliyuncs.com/img/image-20230530212605407.png)
 
+![image-20230530212621727](https://spring-security.oss-cn-beijing.aliyuncs.com/img/image-20230530212621727.png)
 
 ## Code Structure
 
